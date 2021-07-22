@@ -96,4 +96,7 @@ Dica: Copie e cole o conteúdo do arquivo acima no [Swagger Editor](https://edit
 
 Pode ser algo simples, como executar o arquivo Application.java. Ou talvez tenha alguma dependência como base de dados, por exemplo.
 
-TODO
+-----
+
+Para executar só é necessário executar o Application.java na porta 9000.
+Link para a coleção do postman: https://www.getpostman.com/collections/1534cbcef3c971d800b3
